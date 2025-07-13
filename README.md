@@ -16,4 +16,4 @@ GCSToBigQueryOperator.
 ● Demonstrated full pipeline orchestration and modular task handling using Airflow's TaskFlow 
 API.
 
-Medium:
+Medium:[Building a Robust Motor Insurance ETL Pipeline on GCP with Apache Airflow & Python](https://medium.com/@wittawatsuwannarak/building-a-robust-motor-insurance-etl-pipeline-on-gcp-with-apache-airflow-python-b95cd8d81adb)
